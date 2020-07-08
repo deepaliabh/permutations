@@ -4,6 +4,7 @@
   "description": "Generates Permutations of a given List",
   "main": "index.js",
   "scripts": {
+    "start" : "node index.js",
     "test": "mocha"
   },
   "repository": {
