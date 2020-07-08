@@ -1,0 +1,27 @@
+{
+  "name": "permuations",
+  "version": "1.0.0",
+  "description": "Generates Permutations of a given List",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepaliabh/permutations.git"
+  },
+  "author": "Deepali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepaliabh/permutations/issues"
+  },
+  "homepage": "https://github.com/deepaliabh/permutations#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
+  }
+}
